@@ -25,3 +25,14 @@ Before you begin, ensure you have the following installed:
 - Java JDK 17 or later
 - Maven 3.6 or later
 - MySQL Server 5.7 or later
+
+
+### Additional Notes:
+- Replace all placeholders (like GitHub URLs, Twitter handle, and contact details) with your actual data.
+- You might need to provide additional details in sections depending on the specific requirements or additional features of your application.
+- Ensure that the instructions are clear and follow your actual application setup and configuration. Adjust paths and commands as necessary.
+
+
+
+### Contact and contribute if any chnages
+Yash Panchal – yash@gmail.com

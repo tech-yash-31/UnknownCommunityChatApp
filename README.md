@@ -22,6 +22,6 @@ Welcome to the ChatApp project, a real-time messaging platform developed using S
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- Java JDK 11 or later
+- Java JDK 17 or later
 - Maven 3.6 or later
 - MySQL Server 5.7 or later

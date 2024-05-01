@@ -1,0 +1,16 @@
+com\chatapp\service\MessagesService.class
+com\chatapp\dto\MessageSendingDTO.class
+com\chatapp\dto\GroupCreationDTO.class
+com\chatapp\repository\MessagesRepository.class
+com\chatapp\entity\Messages.class
+com\chatapp\dto\UserResponseDTO.class
+com\chatapp\dto\GroupsDTO.class
+com\chatapp\entity\Messages$MessagesBuilder.class
+com\chatapp\dto\UserRegistrationDTO.class
+com\chatapp\dto\GroupResponseDTO.class
+com\chatapp\ChatAppApplication.class
+com\chatapp\dto\MessagesDTO.class
+com\chatapp\entity\AuthRequest.class
+com\chatapp\entity\MessagesType.class
+com\chatapp\dto\UserUpdateDTO.class
+com\chatapp\dto\MembersDTO.class

@@ -36,3 +36,19 @@ Before you begin, ensure you have the following installed:
 
 ### Contact and contribute if any chnages
 Yash Panchal – yash@gmail.com
+
+
+### Swager implimentation and link
+Link : http://localhost:9090/swagger-ui/index.html#/
+
+Screen Shots of All API's,
+
+![image](https://github.com/user-attachments/assets/210a4abc-9ffc-4449-b282-1fad85910470)
+
+![image](https://github.com/user-attachments/assets/49e4a8be-46a9-4101-ac23-d42b50b0aa2d)
+
+![image](https://github.com/user-attachments/assets/28fc2a00-36dd-4b21-9451-d49884c9b34d)
+
+![image](https://github.com/user-attachments/assets/c865a339-9ed6-40c3-b2df-ef391583d82b)
+
+![image](https://github.com/user-attachments/assets/77bd277b-2b10-485d-b536-69d6b342f7e7)
